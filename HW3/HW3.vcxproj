@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dflow_calc-skeleton.c" />
+    <ClCompile Include="dflow_calc.cpp" />
     <ClCompile Include="dflow_main.c" />
   </ItemGroup>
   <ItemGroup>

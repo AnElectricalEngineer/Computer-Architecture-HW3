@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dflow_calc-skeleton.c">
+    <ClCompile Include="dflow_main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="dflow_main.c">
+    <ClCompile Include="dflow_calc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
